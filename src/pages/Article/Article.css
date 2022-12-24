@@ -1,0 +1,15 @@
+.article-page .article{
+    border: 2.5px solid  rgba(34, 195, 158, 0.5438769257703081) ;
+    padding: 30px;
+    border-radius: 7px;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+.article-page h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.article-page h4{
+    font-style: italic;
+}
